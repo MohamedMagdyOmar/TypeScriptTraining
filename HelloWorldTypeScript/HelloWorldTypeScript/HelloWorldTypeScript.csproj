@@ -85,6 +85,8 @@
     <Content Include="images\pause.png" />
     <Content Include="images\start.png" />
     <Content Include="index.html" />
+    <Content Include="Scripts\knockout-3.4.2.debug.js" />
+    <Content Include="Scripts\knockout-3.4.2.js" />
     <Content Include="views\02-01-grammar.html" />
     <Content Include="views\02-02-timer.html" />
     <Content Include="views\02-03-dynamic-types.html" />
@@ -100,12 +102,15 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\02-02-timer.ts" />
+    <TypeScriptCompile Include="Scripts\07-02-ambientDeclaration.ts" />
     <TypeScriptCompile Include="Scripts\Car.ts" />
     <TypeScriptCompile Include="Scripts\GrammerDeclarationsAndAnnotations.ts" />
+    <TypeScriptCompile Include="Scripts\typings\knockout-2.2.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
