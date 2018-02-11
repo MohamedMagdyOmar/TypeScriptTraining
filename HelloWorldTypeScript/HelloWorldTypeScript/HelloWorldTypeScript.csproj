@@ -77,14 +77,31 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\app.css" />
+    <Content Include="Content\timer-styles.css" />
     <Content Include="Default.html" />
+    <Content Include="images\bg.png" />
+    <Content Include="images\clear.png" />
+    <Content Include="images\pause.png" />
+    <Content Include="images\start.png" />
+    <Content Include="index.html" />
+    <Content Include="views\02-01-grammar.html" />
+    <Content Include="views\02-02-timer.html" />
+    <Content Include="views\02-03-dynamic-types.html" />
+    <Content Include="views\02-04-ambient-declarations.html" />
+    <Content Include="views\02-05-primitives.html" />
+    <Content Include="views\02-06-objects.html" />
+    <Content Include="views\02-07-functions.html" />
+    <Content Include="views\02-08-interfaces.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Scripts\02-02-timer.ts" />
     <TypeScriptCompile Include="Scripts\Car.ts" />
+    <TypeScriptCompile Include="Scripts\GrammerDeclarationsAndAnnotations.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
