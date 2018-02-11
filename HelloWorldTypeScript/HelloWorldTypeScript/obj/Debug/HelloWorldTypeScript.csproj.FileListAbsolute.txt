@@ -1,0 +1,9 @@
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\bin\HelloWorldTypeScript.dll.config
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\bin\HelloWorldTypeScript.dll
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\bin\HelloWorldTypeScript.pdb
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.csprojResolveAssemblyReference.cache
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.csproj.CoreCompileInputs.cache
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.dll
+E:\Repos\TypeScriptTraining\HelloWorldTypeScript\HelloWorldTypeScript\obj\Debug\HelloWorldTypeScript.pdb
